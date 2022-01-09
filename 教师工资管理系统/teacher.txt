@@ -1,0 +1,1 @@
+lty m 2002 19 n beijing stu 2000
